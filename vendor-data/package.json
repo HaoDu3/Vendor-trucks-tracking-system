@@ -1,0 +1,19 @@
+{
+  "name": "vendor-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:farrisismatiteach/vendor-data.git",
+  "author": "farrisismatiteach <farris.ismati.teach@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node \"build/index.js\""
+  },
+  "dependencies": {
+    "@aws-sdk/util-dynamodb": "^3.259.0",
+    "aws-sdk": "^2.1303.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
