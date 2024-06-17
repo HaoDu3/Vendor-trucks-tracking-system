@@ -1,0 +1,18 @@
+{
+  "name": "vendor-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:farrisismatiteach/vendor-api.git",
+  "author": "farrisismatiteach <farris.ismati.teach@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/util-dynamodb": "^3.272.0",
+    "aws-sdk": "^2.1317.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.110",
+    "@types/node": "^18.14.0",
+    "typescript": "^4.9.5"
+  }
+}
