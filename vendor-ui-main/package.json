@@ -1,0 +1,36 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@googlemaps/react-wrapper": "^1.1.35",
+    "@googlemaps/typescript-guards": "^2.0.3",
+    "@mui/material": "^5.11.13",
+    "@types/lodash": "^4.14.191",
+    "@types/node": "18.15.5",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "lodash": "^4.17.21",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-infinite-scroll-component": "^6.1.0",
+    "styled-components": "^5.3.9",
+    "typescript": "5.0.2"
+  },
+  "devDependencies": {
+    "@types/google.maps": "^3.52.3",
+    "@types/styled-components": "^5.1.26",
+    "babel-plugin-styled-components": "^2.0.7"
+  }
+}
