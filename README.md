@@ -193,13 +193,3 @@ The Food Truck Tracking App is designed to provide real-time locations of food t
     git push origin feature/AmazingFeature
     ```
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-Your Name - [your-email@example.com](mailto:your-email@example.com)
-
-Project Link: [https://github.com/yourusername/food-truck-tracking-app](https://github.com/yourusername/food-truck-tracking-app)
